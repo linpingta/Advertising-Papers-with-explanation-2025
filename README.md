@@ -30,6 +30,8 @@ This repository contains papers and code related to various aspects of online ad
 | Name                             | Paper explanation                                          |
 |----------------------------------|------------------------------------------------------------|
 | Advancing Ad Auction Realism- Practical Insights & Modeling Implications.pdf |  |
+| Deep Automated Mechanism Design for Integrating Ad Auction and Allocation in Feed.pdf |  |
+
 
 ## Bidding
 | Name                             | Paper explanation                                          |
